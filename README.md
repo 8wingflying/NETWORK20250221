@@ -22,6 +22,17 @@
 - 網路管理(Network Management)與SNMP協定
 - 網路規劃與設計
 - 網路鑑識(Network Forensics)
+  - 網路鑑識(Network Forensics)意義
+  - MITRE D3FEND網路流量分析
+  - 網路鑑識常用工具
+  - 網路鑑識主題
+  - 網路鑑識實務技術
+    - Wireshark常用技術
+    - tshark分析技術
+    - NetworkMiner網路鑑識
+      - [PCAP封包](https://github.com/8wingflying/NETWORK20250221/tree/main/練習封包/http_witp_jpegs.cap) 
+
+
 # 實作練習
 ### 實作練習1:WIRESHARK安裝
 ### 實作練習2:封包側錄
@@ -44,7 +55,8 @@
 機關SOC 分析師正在檢查 SIEM 警報，並察覺到有關連線到已知惡意網址的警報。
 流量是來自 Sara 的電腦，她是一名會計師，每天都會收到大量客戶發送的電子郵件。
 查看 Sara 信箱的電子郵件日誌，並沒發現任何可疑之處，電子郵件來自客戶。
-透過電話聯繫Sara ，她說一位客戶向她發送了一張發票，其中包含帶有巨集的文件，她打開電子郵件，程式就崩潰了。
+透過電話聯繫Sara ，她說一位客戶向她發送了一張發票，其中包含帶有巨集的文件，
+她打開電子郵件，程式就崩潰了。
 SOC 團隊取回了 PCAP 進行進一步分析。
 ```
 - [待分析的PCAP](https://github.com/8wingflying/NETWORK20250221/tree/main/練習封包/traffic-with-dridex-infection.pcap)
