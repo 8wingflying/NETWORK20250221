@@ -4,7 +4,7 @@
 - [流量分析練習(TRAFFIC ANALYSIS EXERCISES)](https://malware-traffic-analysis.net/training-exercises.html)
   - 範例: [2025-01-22 - TRAFFIC ANALYSIS EXERCISE: DOWNLOAD FROM FAKE SOFTWARE SITE](https://malware-traffic-analysis.net/2025/01/22/page2.html)
     - 參考解答1:[Network Traffic Analysis Exercise: How to Deploy a Fake Authenticatoor](https://medium.com/@pavol.kluka/network-traffic-analysis-exercise-how-to-deploy-a-fake-authenticatoor-0968077ed8eb)
-    - 參考解答2:[](https://www.linkedin.com/pulse/traffic-analysis-report-download-from-fake-software-site-fawaz-xlybf/)
+    - 參考解答2:[TRAFFIC ANALYSIS REPORT: DOWNLOAD FROM FAKE SOFTWARE SITE](https://www.linkedin.com/pulse/traffic-analysis-report-download-from-fake-software-site-fawaz-xlybf/)
    
 
 ####  [Ali Hadi | DFIR ]()
