@@ -20,7 +20,14 @@
   - 網路層協定: IP  ICMP
 - [線上實作測驗](https://github.com/8wingflying/NETWORK20250221/tree/main/labS/%E7%B7%9A%E4%B8%8A%E5%AF%A6%E4%BD%9C%E8%80%83%E9%A1%8C)
 - 網路管理(Network Management)與SNMP協定
+  - SNMP的常用工具:
+    - Net-SNMP
+    - iReasoning MIB browser（提供免费版本）
+    - PRTG（提供100个Sensor的免费版本）| MRTG
+    - Zabbix（開源免费）
+    - Cacti（開源免费） 
 - 網路規劃與設計
+  - [網路架構規劃參考指引(修訂)v3.1_1101231](網路架構規劃參考指引(修訂)v3.1_1101231.pdf) 
 - 網路鑑識(Network Forensics)
   - 網路鑑識(Network Forensics)意義
   - MITRE D3FEND網路流量分析
@@ -76,4 +83,17 @@ SOC 團隊取回了 PCAP 進行進一步分析。
   - 實作內容B:使用NetworkMiner分析
   - 實作內容C:使用PCAP線上平台分析
 
-
+# 延伸閱讀
+- 計算機網路
+  - William Stallings
+    - [現代網絡技術：SDN、NFV、QoE、物聯網和雲計算](https://www.tenlong.com.tw/products/9787111586647?list_name=srh)
+      - Foundations of Modern Networking: SDN, NFV, QoE, IoT, and Cloud
+- 資料與電腦通訊
+  - [資料與電腦通訊, 8/e (Data and Computer Communications, 8/e) |William Stallings](https://www.tenlong.com.tw/products/9789861815510?list_name=srh) 
+  - [通訊原理, 7/e (Principles of Communications, 7/e)| Rodger E. Ziemer , William H. Tranter](https://www.tenlong.com.tw/products/9789869190329?list_name=srh)
+- Wireshark
+  - [網路分析完全實戰手冊 ─ 使用 Wireshark, 2/e| Nagendra Kumar Nainar、Yogesh Ramdoss、Yoram Orzach](https://www.tenlong.com.tw/products/9789864343973?list_name=srh)
+    - Network Analysis using Wireshark 2 Cookbook, 2/e
+- 網路鑑識| Network Forensics
+  - [Packet analysis for network forensics: A comprehensive survey](https://www.sciencedirect.com/science/article/pii/S1742287619302002)
+  - [Hands-On Network Forensics](https://learning.oreilly.com/library/view/hands-on-network-forensics/9781789344523/)
