@@ -8,6 +8,7 @@
    
 #### 2.[Ali Hadi | DFIR | Digital Forensic Challenge Images (Datasets)](https://www.ashemery.com/dfir.html)
 #### 3.[frankwxu | digital-forensics-lab|Networking_Forensics](https://github.com/frankwxu/digital-forensics-lab/tree/main/Networking_Forensics)
+- [客製化的customized Kali 2021.4](https://www.dropbox.com/scl/fi/2h19yoyuavtg0kg1os1go/Kali-Linux-2020.4-vbox-amd64_tools.ova?e=2&rlkey=00dzydosoyi60szgslrmndzdb)
 #### 4.ENISA | FORENSICS ==>  20250220 PAGE NOT FOUND
 - 國際歐盟網路和資訊安全局(European Union Agency for Network and Information Security，ENISA)釋出數位鑑識(Forensic)學習資源，提供完整的課程資訊與工作與映像檔資料，不留遺力地培養數位鑑識領域的專家。
 - [Network Forensics| Toolset, Document for students February 2015](Network_Forensics_toolset_2015_Final.pdf) 
