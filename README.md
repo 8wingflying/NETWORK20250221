@@ -55,6 +55,10 @@ SOC 團隊取回了 PCAP 進行進一步分析。
   -	問題4:SOC 團隊發現 Dridex(Ursnif 感染的後續惡意軟體)是罪魁禍首。向她發送巨集文件的客戶已被洩露。Ursnif 從中檢索後續惡意軟體的以 .rar 結尾的完整 URL 是什麼？(格式：http://(網域或IP)/file.rar)
   -	問題5:以 185 開頭的 Dridex 感染後流量 IP 位址是？
 - 參考資料 https://www.malware-traffic-analysis.net/2018/11/27/index.html
+  - Dridex 惡意流量分析
+  - Dridex 是惡名昭彰的銀行木馬，它能夠竊取使用者憑證並對主機的檔案系統進行修改。還可以將自身注入瀏覽器與網站，非法獲取使用者登入資訊
+  - Dridex傳遞方式通常透過包含惡意文件與/或惡意連結的網路釣魚電子郵件進行
+  - 本實作將檢視與分析Dridex 惡意流量 
 - 分析技巧
   - 實作內容A:使用Wireshark分析
   - 實作內容B:使用NetworkMiner分析
