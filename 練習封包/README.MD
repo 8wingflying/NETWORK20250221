@@ -6,8 +6,7 @@
     - 參考解答1:[Network Traffic Analysis Exercise: How to Deploy a Fake Authenticatoor](https://medium.com/@pavol.kluka/network-traffic-analysis-exercise-how-to-deploy-a-fake-authenticatoor-0968077ed8eb)
     - 參考解答2:[TRAFFIC ANALYSIS REPORT: DOWNLOAD FROM FAKE SOFTWARE SITE](https://www.linkedin.com/pulse/traffic-analysis-report-download-from-fake-software-site-fawaz-xlybf/)
    
-
-####  [Ali Hadi | DFIR ]()
+####  [Ali Hadi | DFIR | Digital Forensic Challenge Images (Datasets)](https://www.ashemery.com/dfir.html)
 #### [digital-forensics-lab/Networking_Forensics](https://github.com/frankwxu/digital-forensics-lab/tree/main/Networking_Forensics)
 #### ENISA | FORENSICS ==>  20250220 PAGE NOT FOUND
 - 國際歐盟網路和資訊安全局(European Union Agency for Network and Information Security，ENISA)釋出數位鑑識(Forensic)學習資源，提供完整的課程資訊與工作與映像檔資料，不留遺力地培養數位鑑識領域的專家。
