@@ -4,4 +4,8 @@
 - [流量分析練習(TRAFFIC ANALYSIS EXERCISES)](https://malware-traffic-analysis.net/training-exercises.html)
   - 範例: [2025-01-22 - TRAFFIC ANALYSIS EXERCISE: DOWNLOAD FROM FAKE SOFTWARE SITE]()
 
+####  [Ali Hadi | DFIR ]()
 #### [digital-forensics-lab/Networking_Forensics](https://github.com/frankwxu/digital-forensics-lab/tree/main/Networking_Forensics)
+#### ENISA | FORENSICS ==>  20250220 PAGE NOT FOUND
+- 國際歐盟網路和資訊安全局(European Union Agency for Network and Information Security，ENISA)釋出數位鑑識(Forensic)學習資源，提供完整的課程資訊與工作與映像檔資料，不留遺力地培養數位鑑識領域的專家。
+- [Network Forensics| Toolset, Document for students February 2015]() 
