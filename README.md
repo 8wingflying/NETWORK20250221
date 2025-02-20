@@ -8,9 +8,9 @@
   - 完成 實作練習1:WIRESHARK安裝
   - 完成 實作練習2:封包側錄
 - 網路服務與協定分析 {搭配實作練習3說明}
-  - 應用層協定: DNS
-  - 傳輸層協定: TCP UDP
-  - 網路層協定: IP
+  - 應用層協定: DNS ...有很多 有時間依序介紹 (1)EMAIL 用的 SMTP|POP3|IMAP4 (2)HTTP .....
+  - 傳輸層協定: TCP UDP ..有時間依序介紹 SCTP.. T/TCP..  QUIC
+  - 網路層協定: IP  ICMP
 - [線上實作測驗](https://github.com/8wingflying/NETWORK20250221/tree/main/labS/%E7%B7%9A%E4%B8%8A%E5%AF%A6%E4%BD%9C%E8%80%83%E9%A1%8C)
 - 網路管理
 - 網路規劃與設計
