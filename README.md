@@ -55,5 +55,9 @@ SOC 團隊取回了 PCAP 進行進一步分析。
   -	問題4:SOC 團隊發現 Dridex(Ursnif 感染的後續惡意軟體)是罪魁禍首。向她發送巨集文件的客戶已被洩露。Ursnif 從中檢索後續惡意軟體的以 .rar 結尾的完整 URL 是什麼？(格式：http://(網域或IP)/file.rar)
   -	問題5:以 185 開頭的 Dridex 感染後流量 IP 位址是？
 - 參考資料 https://www.malware-traffic-analysis.net/2018/11/27/index.html
+- 分析技巧
+  - 實作內容A:使用Wireshark分析
+  - 實作內容B:使用NetworkMiner分析
+  - 實作內容C:使用PCAP線上平台分析
 
 
