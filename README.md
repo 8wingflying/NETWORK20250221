@@ -8,7 +8,10 @@
   - 完成 實作練習1:WIRESHARK安裝
   - 完成 實作練習2:封包側錄
 - 網路服務與協定分析 {搭配實作練習3說明}
-  - 應用層協定: DNS ...有很多 有時間依序介紹 (1)EMAIL 用的 SMTP|POP3|IMAP4 (2)HTTP .....
+  - 應用層協定: DNS
+    - ...有很多 有時間依序介紹
+    - (1)EMAIL 用的 SMTP|POP3|IMAP4
+    - (2)HTTP .....
   - 傳輸層協定: TCP UDP
     - ..有時間依序介紹
     - SCTP串流控制傳輸協定(Stream Control Transmission Protocol)
@@ -35,4 +38,5 @@
   - lab1.第16個封包的Destination Port是多少?  
 - 4.IP封包格式分析
   - lab1.第87個封包的IP裡面有一個 Time to live 後面的數字是多少?
+
 ### 實作練習4:網路鑑識實戰(略)
