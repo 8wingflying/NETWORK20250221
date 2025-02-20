@@ -85,6 +85,10 @@ SOC 團隊取回了 PCAP 進行進一步分析。
 
 # 延伸閱讀
 - 計算機網路
+  - 經典 Computer Networks 電腦網路 | Andrew S. Tanenbaum
+    - [英文版(最新版第六版)](https://www.tenlong.com.tw/products/9781292374062?list_name=srh)
+    - [簡體中譯本(最新版第六版)](https://www.tenlong.com.tw/products/9787302604716?list_name=srh)
+    - [中譯本(第五版)](https://www.tenlong.com.tw/products/9789862800973?list_name=srh)  
   - William Stallings
     - [現代網絡技術：SDN、NFV、QoE、物聯網和雲計算](https://www.tenlong.com.tw/products/9787111586647?list_name=srh)
       - Foundations of Modern Networking: SDN, NFV, QoE, IoT, and Cloud
