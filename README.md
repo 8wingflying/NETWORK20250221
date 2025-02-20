@@ -4,7 +4,7 @@
 # [教材下載]()
 # 課程內容
 - 網路概論
-- Wireshark 分析{參考實作練習} [補充簡報]()
+- Wireshark 分析{參考實作練習} [補充簡報](wireshark網路封包分析.pptx)
 - 網路協定與分析
 - [線上實作測驗](https://github.com/8wingflying/NETWORK20250221/tree/main/labS/%E7%B7%9A%E4%B8%8A%E5%AF%A6%E4%BD%9C%E8%80%83%E9%A1%8C)
 - 網路管理
