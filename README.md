@@ -19,9 +19,9 @@
     - T/TCP == > (略) [安全有疑慮 see Security Problems Associated With T/TCP](https://web.archive.org/web/20010305122504/http://www.mid-way.org/doc/ttcp-sec.txt)
   - 網路層協定: IP  ICMP
 - [線上實作測驗](https://github.com/8wingflying/NETWORK20250221/tree/main/labS/%E7%B7%9A%E4%B8%8A%E5%AF%A6%E4%BD%9C%E8%80%83%E9%A1%8C)
-- 網路管理
+- 網路管理(Network Management)與SNMP協定
 - 網路規劃與設計
-- 網路鑑識(略)
+- 網路鑑識(Network Forensics)
 # 實作練習
 ### 實作練習1:WIRESHARK安裝
 ### 實作練習2:封包側錄
@@ -54,6 +54,6 @@ SOC 團隊取回了 PCAP 進行進一步分析。
   -	問題3:帶有 GET /images/ 的 HTTP 請求來自哪個網域？
   -	問題4:SOC 團隊發現 Dridex(Ursnif 感染的後續惡意軟體)是罪魁禍首。向她發送巨集文件的客戶已被洩露。Ursnif 從中檢索後續惡意軟體的以 .rar 結尾的完整 URL 是什麼？(格式：http://(網域或IP)/file.rar)
   -	問題5:以 185 開頭的 Dridex 感染後流量 IP 位址是？
-
+- 參考資料 https://www.malware-traffic-analysis.net/2018/11/27/index.html
 
 
