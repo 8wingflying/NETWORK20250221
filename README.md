@@ -19,7 +19,7 @@
     - T/TCP == > (略) [安全有疑慮 see Security Problems Associated With T/TCP](https://web.archive.org/web/20010305122504/http://www.mid-way.org/doc/ttcp-sec.txt)
   - 網路層協定: IP  [ICMP](ICMP.pdf)
 - [線上實作測驗](https://github.com/8wingflying/NETWORK20250221/tree/main/labS/%E7%B7%9A%E4%B8%8A%E5%AF%A6%E4%BD%9C%E8%80%83%E9%A1%8C)
-- 網路管理(Network Management)與SNMP協定
+- 網路管理(Network Management)與SNMP協定 [補充簡報](SNMP.pptx)
   - SNMP的常用工具:
     - Net-SNMP
     - iReasoning MIB browser（提供免费版本）
