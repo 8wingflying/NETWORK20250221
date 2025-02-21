@@ -43,7 +43,7 @@
 # 實作練習
 ### 實作練習1:WIRESHARK安裝
 ### 實作練習2:封包側錄
-### 實作練習3:封包分析
+### 實作練習3:封包分析 [參考解答](協定分析實戰.pdf)
 - [待分析之封包](https://github.com/8wingflying/NETWORK20250221/blob/main/labS/Cennection2Google.pcapng)
 - 1.DNS 封包分析
   - lab1.第262個封包所查詢的域名是什麼?
